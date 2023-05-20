@@ -26,7 +26,7 @@ double calcularPi(double pi){
 
 
 int main(){
-
+    //Puede ser que tarde un rato.
     cout<<setprecision(7)<<calcularPi(pi);
     cout<<"\nEn "<<ciclos<<" ciclos";
 
